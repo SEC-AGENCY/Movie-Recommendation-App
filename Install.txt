@@ -1,0 +1,4 @@
+cd backend
+npm init -y
+npm install express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cors helmet morgan
+npm install -D nodemon
